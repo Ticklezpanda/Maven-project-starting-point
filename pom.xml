@@ -6,9 +6,9 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<parent>
-		<groupId>org.scijava</groupId>
-		<artifactId>pom-scijava</artifactId>
-		<version>26.0.0</version>
+		<groupId>com.uWaterloo.UeIL</groupId>
+		<artifactId>maven_test_project</artifactId>
+		<version>1.0-SNAPSHOT</version>
 		<relativePath />
 	</parent>
 
@@ -34,9 +34,9 @@
 	<developers>
 		<!-- See https://imagej.net/Team -->
 		<developer>
-			<id>ctrueden</id>
-			<name>Curtis Rueden</name>
-			<url>https://imagej.net/User:Rueden</url>
+			<id>tlott</id>
+			<name>Tyler Lott</name>
+			<url></url>
 			<roles>
 				<role>founder</role>
 				<role>lead</role>
@@ -50,17 +50,17 @@
 	</developers>
 	<contributors>
 		<contributor>
-			<name>Yili Zhao</name>
-			<url>https://imagej.net/User:Panovr</url>
-			<roles><role>founder</role></roles>
-			<properties><id>panovr</id></properties>
+			<name></name>
+			<url></url>
+			<roles><role></role></roles>
+			<properties><id></id></properties>
 		</contributor>
 	</contributors>
 
 	<mailingLists>
 		<mailingList>
-			<name>Image.sc Forum</name>
-			<archive>https://forum.image.sc/tags/imagej</archive>
+			<name></name>
+			<archive></archive>
 		</mailingList>
 	</mailingLists>
 
